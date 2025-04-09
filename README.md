@@ -2,8 +2,8 @@
 ## Introduction to Programming - Java Project
 
 ## Contributors
-- Deniz Esma Nur - 03763646
-- Burak Ince - 03764979
+- Deniz Esma Nur
+- Burak Ince
 
 Welcome to the Maze Runner Game! This Java project utilizes the LibGDX library to create an interactive maze exploration game.
 
