@@ -1,5 +1,7 @@
 # Maze Runner Game
-## Introduction to Programming - Java Project
+## ![Game Video](https://youtu.be/XF6rYw-0UD0)
+
+<img src="assets/Welcome.png" alt="Game Welcome Page" width="800">
 
 ## Contributors
 - Deniz Esma Nur
