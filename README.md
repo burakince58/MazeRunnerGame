@@ -1,5 +1,5 @@
 # Maze Runner Game
-## ![Game Video](https://www.youtube.com/watch?v=XF6rYw-0UD0)
+## ![Game Video](assets/MazeRunner Video Recording-1.mov)
 
 <img src="assets/Welcome.png" alt="Game Welcome Page" width="800">
 
