@@ -1,7 +1,24 @@
 # Maze Runner Game
-## ![Game Video](assets/MazeRunner Video Recording-1.mov)
+
+## Welcome Page
+<img src="assets/Welcome.png" alt="Game Welcome Page" width="600">
+
+## How to Play
+<img src="assets/How To Play.png" alt="How to Play" width="600">
+
+## Choose Map
+<img src="assets/Choose Map.png" alt="Choose Map" width="600">
+
+## First Map
+<img src="assets/Map 1.png" alt="First Map" width="600">
+
+## ![Game Video](assets/video1878273040.mp4)
+
+## YouTube ->
 [![Oyun Tanıtım Videosu](http://img.youtube.com/vi/XF6rYw-0UD0/0.jpg)](https://www.youtube.com/watch?v=XF6rYw-0UD0)
-<img src="assets/Welcome.png" alt="Game Welcome Page" width="800">
+
+## Game Video
+<video src="videos/tanıtım.mp4" controls width="480"></video>
 
 ## Contributors
 - Deniz Esma Nur
