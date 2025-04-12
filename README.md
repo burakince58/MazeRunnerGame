@@ -12,7 +12,9 @@
 ## First Map
 <img src="assets/Map 1.png" alt="First Map" width="600">
 
-## ![Game Video](assets/video1878273040.mp4)
+## Game Video 
+
+[![Game Video]](assets/video1878273040.mp4)
 
 ## YouTube ->
 [![Oyun Tanıtım Videosu](http://img.youtube.com/vi/XF6rYw-0UD0/0.jpg)](https://www.youtube.com/watch?v=XF6rYw-0UD0)
