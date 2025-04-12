@@ -13,7 +13,18 @@
 <img src="assets/Map 1.png" alt="First Map" width="600">
 
 ## Game Video on YouTube
-[![Oyun Tanıtım Videosu](http://img.youtube.com/vi/XF6rYw-0UD0/0.jpg)](https://www.youtube.com/watch?v=XF6rYw-0UD0)
+[![Watch the video](http://img.youtube.com/vi/XF6rYw-0UD0/0.jpg)](https://www.youtube.com/watch?v=XF6rYw-0UD0)
+
+## Vido Dene
+1: <video src="assets/video1878273040.mp4" controls width="480"></video>
+
+2: <video src="assets/video1878273040.mp4" controls width="480"/>
+
+3: <video src='assets/video1878273040.mp4' width=480/>
+
+4: <video src="https://github.com/burakince58/MazeRunnerGame/blob/f3888144446c1c8a80751785e3f19e84dcf341c5/assets/video1878273040.mp4"></video>
+
+https://github.com/burakince58/MazeRunnerGame/blob/f3888144446c1c8a80751785e3f19e84dcf341c5/assets/video1878273040.mp4
 
 ## Contributors
 - Deniz Esma Nur
