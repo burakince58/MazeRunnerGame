@@ -12,15 +12,11 @@
 ## First Map
 <img src="assets/Map 1.png" alt="First Map" width="600">
 
-## Game Video 
-
-[![Game Video]](assets/video1878273040.mp4)
-
-## YouTube ->
+## Game Video on YouTube
 [![Oyun Tanıtım Videosu](http://img.youtube.com/vi/XF6rYw-0UD0/0.jpg)](https://www.youtube.com/watch?v=XF6rYw-0UD0)
 
 ## Game Video
-<video src="videos/tanıtım.mp4" controls width="480"></video>
+<video src="video1878273040.mp4" controls width="480"></video>
 
 ## Contributors
 - Deniz Esma Nur
