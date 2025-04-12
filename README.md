@@ -15,9 +15,6 @@
 ## Game Video on YouTube
 [![Oyun Tanıtım Videosu](http://img.youtube.com/vi/XF6rYw-0UD0/0.jpg)](https://www.youtube.com/watch?v=XF6rYw-0UD0)
 
-## Game Video
-<video src="assets/video1878273040.mp4" controls width="480">
-
 ## Contributors
 - Deniz Esma Nur
 - Burak Ince
